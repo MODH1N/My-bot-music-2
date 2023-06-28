@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"guessedImports":["discord.js","ms","ascii-table","${__dirname.replace(\"\\handlers\", \"\\poruEvents\")}","poru","dotenv","${__dirname.replace(\"\\handlers\", \"\\events\")}","discord-api-types"],"guessedImportsHash":"b0294ee5a4ff5c2c7767e617a197cf2d"}}}
